@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 15
-  productGUID: a777ae1dfdfcfce498354ccea5ffc8d1
+  productGUID: adbc7f6fd853443499a7ce3a61d829b4
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: Stoeljoe
+  productName: Stjoeljoe
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -617,8 +617,8 @@ PlayerSettings:
     UNet: 1
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
-  cloudProjectId: bc749481-563c-4ed5-917f-00b58a7d78ae
-  projectName: Stoeljoe
+  cloudProjectId: 276c1b12-3be8-4fc0-8149-53a1a6c330a0
+  projectName: Stjoeljoe
   organizationId: yinroh
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
